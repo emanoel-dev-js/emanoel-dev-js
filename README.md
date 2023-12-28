@@ -17,8 +17,11 @@
   <strong>📖 Html, Css, JavaScript, Java, Delphi, Nodejs, Sql</strong>
   <br>
   <div align='center'>
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,delphi,nodejs,mysql&perline=5"/>
-  
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,pascal,nodejs,mysql&perline=5"/>
+  </div>
+  <div align='center'>
+    <br>
+  <code><img src="https://img.shields.io/badge/delphi-red?style=for-the-badge&logo=delphi&logoColor=white"></code>
   </div>
 </p>
 
@@ -40,10 +43,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoel-dev-js&langs_count=12&layout=compact&theme=algolia&card_width=500&color="white" />
 </p>
 
+<!--
+
 ## > Estudando:
 <p align='center'>
   <code><img src="https://img.shields.io/badge/springboot-3f444f?style=for-the-badge&logo=java&logoColor=blue"></code>
 </p>
+
+-->
 
 <p align="center">
   <img width="276" src="https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" />  
