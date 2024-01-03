@@ -7,7 +7,7 @@
 <br>
 
 ## > Contato:
-<a href="DevSouza014@Gmail.com"><code><img src="https://img.shields.io/badge/Gmail-6D4AFF?style=for-the-badge&logo=Gmail&logoColor=white"></a></code>
+<a href="mailto:DevSouza014@Gmail.com"><code><img src="https://img.shields.io/badge/Gmail-6D4AFF?style=for-the-badge&logo=Gmail&logoColor=white"></a></code>
 
 ## > Linguagens e Ferramentas:
 <p aling='center'>
